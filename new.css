@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+    background-color: rgb(170, 206, 116);
+    text-align: center;
+    border-radius: 20px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    border: solid 4px red;
+
+}
+table, th, td{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+}
+th, td{
+    padding: 10px;
+    font-size: 18px;
+    
+}
+body{
+    background-color: beige;
+}
+.red{
+    color: black;
+    background-color: red;
+}
+.box{
+    color: white;
+    background-color: grey;
+}
+.bos{
+    color: black;
+    background-color: bisque;
+}
+
+
+
+
+.boshqism{
+    background-color: bisque;
+}
+.kirishqism{
+    color: black;
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 20px;
+}
